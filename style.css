@@ -1,0 +1,52 @@
+body{
+    background: rgb(239, 235, 235);
+    margin: auto;
+    max-width: 800px;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.ler{
+    border: 2px solid black;
+    background: white;
+    color:black;
+}
+article header h1,h6{
+   margin: 0;
+   margin-bottom: 10px;
+}
+ article p{
+    font-weight: bold;
+}
+article p {
+    margin: 0;
+}
+article {
+    border: 2px solid black;
+    padding: 15px;
+}
+.img{
+    width: 100%;
+}
+.lista{
+    padding-left: 15px;
+}
+.lista li{
+   
+   margin: 0px;
+}
+.post{
+font-size: 10px;
+margin-bottom: 29px
+}
+footer header h4{
+    margin: 0;
+}
+footer ul li a{
+    color: blue;
+}
+footer ul{
+    padding-left: 15px;
+}
